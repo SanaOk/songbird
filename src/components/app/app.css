@@ -1,0 +1,13 @@
+#root {
+  background-color: #EBE4D1;
+  font-family: 'Pacifico', cursive;
+}
+
+ul {
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+li {
+  list-style-type: none;
+}
