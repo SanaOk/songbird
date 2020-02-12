@@ -1,0 +1,11 @@
+.button {
+    width: 100%;
+    padding: 15px;
+    margin: 10px auto 30px;
+    border: none;
+    background-color: unset;
+}
+
+.active {
+    background: url("../../img/59779153-dibujado-a-mano-marcadores-negros-círculo.png") no-repeat center/contain;
+}

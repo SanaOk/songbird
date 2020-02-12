@@ -1,0 +1,11 @@
+.question-block {
+  background-color: #D3E8E1;
+  border-radius: 20px;
+  padding: 20px;
+  border: 2px solid;
+}
+
+.name {
+  padding: 10px 0;
+}
+
