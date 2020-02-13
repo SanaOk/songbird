@@ -10,7 +10,7 @@ export default function AppHeader({score, currentSet}) {
     <header className="header">
       <div className="d-flex justify-content-between">
         <img src={logo} alt="logo" className="logo col-6 col-sm-4 col-md-3" />
-          <span className="score">Score: {score}</span>
+          <span className="score">Счет: {score}</span>
       </div>
       <AppHeaderNav currentSet={currentSet} />
     </header>);
