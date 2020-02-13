@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 .nav-list-item {
-    line-height: 50px;
+    line-height: 35px;
     padding: 10px 20px;
 }
 .active {
     background: url("../../img/59779153-dibujado-a-mano-marcadores-negros-círculo.png") no-repeat center/contain;
-=======
-.nav-list-item {
-    line-height: 50px;
-    padding: 10px 20px;
-}
-.active {
-    background: url("../../img/59779153-dibujado-a-mano-marcadores-negros-círculo.png") no-repeat center/contain;
->>>>>>> Additions
 }

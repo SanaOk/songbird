@@ -1,7 +1,7 @@
 import React from 'react';
 
-import unknownBird from '../../img/silhouette-3347558_960_720.png';
 import Image from '../image';
+import unknownBird from '../../img/silhouette-3347558_960_720.png';
 import AudioPlayer from '../audio-player';
 import './question-block.css';
 

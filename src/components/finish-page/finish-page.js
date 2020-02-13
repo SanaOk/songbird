@@ -16,7 +16,7 @@ export default function FinishPage({score, onStartClick}) {
       </div>);
   } else {
     return (
-      <div className="text-center">
+      <div className="text-center final-page">
           <h2>Поздравляем!</h2>
           <p>Вы прошли викторину и набрали {score} из {maxScore} возможных баллов</p>
           <button className="p-5 button active" onClick={onStartClick}>Пройти викторину еще раз</button>

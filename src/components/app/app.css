@@ -1,7 +1,17 @@
-<<<<<<< HEAD
 #root {
   background-color: #EBE4D1;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Caveat', cursive;
+  font-size: 26px;
+}
+
+@media(max-width: 500px) {
+  #root {
+    font-size: 22px;
+  }
+  .img.img-fluid{
+    width: 150px;
+    height: 130px;
+  }
 }
 
 ul {
@@ -11,18 +21,4 @@ ul {
 
 li {
   list-style-type: none;
-=======
-#root {
-  background-color: #EBE4D1;
-  font-family: 'Pacifico', cursive;
-}
-
-ul {
-  margin-bottom: 0;
-  padding-left: 0;
-}
-
-li {
-  list-style-type: none;
->>>>>>> Additions
 }

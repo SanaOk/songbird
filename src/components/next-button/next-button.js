@@ -1,14 +1,14 @@
 import React from 'react';
-import './button.css';
+import './next-button.css';
 
-export default function Button({guessed, onNextClick}) {
+export default function NextButton({guessed, onNextClick}) {
   let state;
-  let claas = 'button ';
+  let claas = 'button';
 
   if (!guessed) {
-    state = 'disabled';
+    state = ' disabled';
   } else {
-    claas += 'active';
+    claas += ' active';
   }
   return (
     <button className={claas} onClick={onNextClick} disabled={state}>Дальше</button>

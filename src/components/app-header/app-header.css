@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .header {
   padding-top: 30px;
 }
@@ -11,18 +10,4 @@
     height: 21px;
     position: relative;
     left: -20px;
-=======
-.header {
-  padding-top: 30px;
-}
-
-.score::after {
-    content: '';
-    display: block;
-    background: url("../../img/Underline.png") center/cover;
-    width: 100px;
-    height: 21px;
-    position: relative;
-    left: -20px;
->>>>>>> Additions
 }
